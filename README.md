@@ -3,7 +3,7 @@
 A tabbed analytics product. Six pages following the founder journey: Overview, then Discover,
 Apply, Program, Community, Alumni. Built from every source registered in `sources.py`.
 
-Live: https://alliajagbe.github.io/ff-dashboard/
+Live: https://founder-forward.github.io/ff-dashboard/
 
 This is a public URL. Anyone with the link can read it. It carries no personal data,
 but it does expose capital amounts, partner names, cohort names and the data quality
